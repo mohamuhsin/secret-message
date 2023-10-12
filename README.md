@@ -7,3 +7,5 @@ Using array methods, you will transform an array of strings into a secret messag
 
 **2.** Great! You can check your work by logging the .length of the array.
 At this point, the length should be 1 less than the original length.
+
+**3.** Use an array method to add the words to and Program as separate strings to the end of the secretMessage array.
