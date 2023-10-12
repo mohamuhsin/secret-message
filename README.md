@@ -17,3 +17,5 @@ At this point, the length should be 1 less than the original length.
 **6.** Use an array method to add the string Programming to the beginning of the array.
 
 **7.** Use an array method to remove the strings get, right, the, first, time,, and replace them with the single string know,.
+
+**8.** On one line, use console.log() and .join() to print the secret message as a sentence.
