@@ -13,3 +13,5 @@ At this point, the length should be 1 less than the original length.
 **4.** Change the word easily to the word right by accessing the index and replacing it.
 
 **5.** Use an array method to remove the first string of the array.
+
+**6.** Use an array method to add the string Programming to the beginning of the array.
